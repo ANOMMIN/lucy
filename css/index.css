@@ -28,6 +28,7 @@ body {
     padding: 24px;
     padding-top: 0px;
     flex-direction: row;
+    justify-content: space-between;
 }
 
 .center-text {
