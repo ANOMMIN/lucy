@@ -1,1 +1,1 @@
-# lucy
+LUCY PROJECT
